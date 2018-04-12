@@ -15,7 +15,15 @@ The *Smart Objects Working Group* will provide a set of data models and schemas 
 
 ## Deliverables 
 
-The group is expected to provide 
+The group is expected to provide support to the existing IPSO Smart Objects and LWM2M Objects. The group will modify those two object subsets and provide allignment on the two, to make use of the same data model. 
+
+The group is also expected to deliver guidelines for contribution of new Smart Objects when the existing ones are not sufficient. 
+
+The group will provide continuous validation tools for the Smart Objects anjd maintain them for the lifetime of the Objects. 
+
+The group will provide support for Smart Objects users via the Issue Tracker and mailing lists.
+
+The group will look at existing standards and practices within the industry and identify opportunities for new work. 
 
 ## Coordination
 
