@@ -4,12 +4,11 @@ The Smart Objects Working Group, previously named after the IP for Smart Objects
 
 The Smart Objects Working Group will provide a set of data models and schemas necessary for interoperability and will seek to work with other standard bodies to ensure that interoperability. The group covers data model definitions for sensors and actuators as well as all metadata they might provide.
 
---- | ---
-**Start Date** | 15th May 2018
-**End Date** |  TBD
-**Chairs** |  Jaime Jiménez (temporary) 
-**Meeting Schedule** |  The group will meet bi-weekly with appropriate calls when needed. The group will also meet during the OMA face-to-face meetings.
-
+|:------------------- | ------------------------------------:|
+|**Start Date**       | 15th May 2018 |
+|**End Date**         |  TBD |
+|**Chairs**           |  Jaime Jiménez (temporary) |
+|**Meeting Schedule** |  The group will meet bi-weekly with appropriate calls when needed. The group will also meet during the OMA face-to-face meetings. |
 
 ## Deliverables 
 
