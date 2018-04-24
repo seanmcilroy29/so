@@ -15,7 +15,7 @@ The *Smart Objects Working Group* will provide a set of data models and schemas 
 
 ## Deliverables
 
-The group is expected to provide support to the existing IPSO Smart Objects and LWM2M Objects. The group will modify those two object subsets and provide a consistent data model for both.
+The group is expected to provide support to the existing IPSO Smart Objects and LWM2M Objects. The group will modify those two object subsets and provide a consistent data model for both.  The group shall not be responsible for contributed third-party Objects.
 
 The group is also expected to deliver guidelines for contribution of new Smart Objects when the existing ones are not sufficient.
 
@@ -31,14 +31,14 @@ The WG will seek for a complete review for all its deliverables, within OMA Spec
 
 The SO Working Group will coordinate with the OMA DM Working Group when it comes to the modification of the LWM2M Objects used for management of Devices (i.e. LWM2M Objects on Device, Server, Security ...) and with the [Open Mobile LWM2M Object and Registry](http://www.openmobilealliance.org/wp/OMNA/LwM2M/LwM2MRegistry.html) to provide a single registry for developers and applications.
 
-Additional technical coordination can be sought on an ad-hoc basis with the following organisations, the list is not exhaustive and organisations can change: IETF Core Working Group, OneM2M, Open Connectivity Foundation, W3C WoT Group, Industrial Internet Consortium, Fairhair Alliance.
+Additional technical coordination can be sought on an ad-hoc basis with the following organisations, the list is not exhaustive and organisations can change: IETF Core Working Group, OneM2M, Open Connectivity Foundation, W3C WoT Group, Industrial Internet Consortium, Fairhair Alliance, using the appropriate SpecWorks Liaison process. 
 
 
 ## Participation
 
 The group will participate in a collaborative fashion over github. Pull Requests will be the main form of contribution, in addition to comments, questions, presentations and mailing lists.
 
-The group welcomes non-Members to contribute technical submissions, issue tracker comments and other feedback for consideration. With the implicit agreement from each participant to the [LICENSE](https://github.com/omadm/so/blob/master/LICENSE).
+The group welcomes non-Members to contribute technical submissions, issue tracker comments and other feedback for consideration. With the implicit agreement from each participant to the [LICENSE](https://github.com/omadm/so/blob/master/LICENSE). (Note: The group understands that inclusion of non-members is presently at variance from current SpecWorks procedures and will seek to define and approve appropriate procedures to allow the Group to accomodate inputs from non-members.)
 
 ### Consensus Process
 
@@ -51,44 +51,11 @@ The response period for the consensus call will be left to the chair, with no le
 
 ### Contributor Workflow
 
-Every individual member can contribute patch proposals using "pull requests" and expect a response. This facilitates social contribution, easy testing and peer review.
-
-To contribute a patch, the workflow is as follows:
-
-1. Fork repository
-2. Create topic branch
-3. Commit patches
-
-Please refer to the [Git manual](https://git-scm.com/doc) for more information about Git.
-
-Changes that require consensus are:
-
-* `Specification` for changes that affect the SO specification.
-* `Tools` for changes to tools used within the group (e.g. validation, implementations...).
-* `XML` for changes to specific objects. Can be other object format.
-* `XSD` for changes to the schema. Can be other schema format.
-
-Changes that do not require consensus are:
-
-* `editorial` for editorial changes on the specification (e.g. comments, whitespace, etc.). Any change to an object is not editorial.
-* `new so` for new objects and resources that are not already specified. These will require only the approval of the chairs or editors.
-
-Every pull request should contain a summary and the changes, for example:
-
-```
-Specification: Edited the data type to add MY_DATA_TYPE.
-XML: Added a new Resource to Object 3303.
-Tools: improve the validation mechanism with a new test.
-```
-Changes that do not require consensus should not be mixed with those that do.
-
-Pull requests will be closed by the group either online or during the by-weekly meetings. A PR can be **closed online** with a simple majority from the group and reviewers, as long as no negative reviews remain on the PR.
-
-The chairs can assign specific reviewers for any PR, reviewers MUST provide feedback on the PR before it gets merged.
+Contributor workflow shall mirror existing SpecWorks procedures with such modifications as are necessary to ensure efficient workflow, equitable opportunity for Group member contributions and high quality Objects and documentation.
 
 ## License
 
 The group will use the license below for all its deliverables.
-<https://github.com/omadm/so/blob/master/LICENSE>
+<https://github.com/omadm/so/blob/master/LICENSE> (Note: the Group understands that the licenses will be reviewed by SpecWorks staff and attorney to ensure consistency with OMA licensing.  
 
 **N.B.**: The charter might be changed or reviewed at the group's consideration.
